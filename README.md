@@ -2,7 +2,7 @@
 The U.S. States Game is an interactive guessing game where players enter state names. Correct guesses appear on a U.S. map, while incorrect ones do nothing. Players can exit anytime, and unguessed states are saved for review.
 
 ## Screenshots
-![ss1](./screenshots/1.PNG)
+![ss1](./screenshots/1.png)
 
 ## Author
 Pranjal Sarnaik
